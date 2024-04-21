@@ -1,0 +1,23 @@
+{
+  "name": "qc135679-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qc135679/project.git"
+  },
+  "license": "ISC", 
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+  	"micmohonlmaiceal": "^1.0.0",
+	"qc135679": "^1.0.0",
+  	"wm857902": "^1.0.0",
+	"wm857902-one": "^1.0.0",
+  	"guzibiji": "^1.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
